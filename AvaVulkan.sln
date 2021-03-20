@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AvaVulkan", "AvaVulkan.csproj", "{DCA416E3-1F22-4172-AB30-5962472FF3F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCA416E3-1F22-4172-AB30-5962472FF3F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCA416E3-1F22-4172-AB30-5962472FF3F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCA416E3-1F22-4172-AB30-5962472FF3F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCA416E3-1F22-4172-AB30-5962472FF3F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AB3DE9D-1CB0-401A-8E9B-A7FB48985904}
+	EndGlobalSection
+EndGlobal
